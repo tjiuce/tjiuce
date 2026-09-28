@@ -40,7 +40,7 @@ Check out more of my work [here](https://tejasgupta.work).
 
 -->
 
-<img src="https://raw.githubusercontent.com/tjiuce/tjiuce/main/tjiuce.svg?v=1790544624" width="100%" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tjiuce/tjiuce/main/tjiuce.svg?v=1790637953" width="100%" alt="GitHub Stats" />
 
 <!--
 <div align="center">
