@@ -1,4 +1,3 @@
-<mark>Recently changed my username; some links may be temporarily broken.</mark>
 <div style="display:flex;"><h1>Hello, I'm <a href="https://tejasgupta.work/">Tejas</a></h1>
 <a href="https://wakatime.com/@ae130591-b326-49e9-ad6d-869b9ac9d27b"><img src="https://wakatime.com/badge/user/ae130591-b326-49e9-ad6d-869b9ac9d27b.svg?style=flat-square" alt="Total time coded since Apr 14 2025" /></a>
 <img src="https://komarev.com/ghpvc/?username=tjiuce&base=3164&label=🌏%20Total%20Visitors%20%20&color=263759&style=flat-square">
