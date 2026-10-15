@@ -1,7 +1,6 @@
 # Tech Stack
 
-<div class="table-nowrap">
-
+<!-- nowrap -->
 | Tech I've Used |
 |-----------|
 | **⚡⠀Languages** |
@@ -18,4 +17,3 @@
 |![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat-square&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)|
 | **🖥⠀OS** |
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Microsoft&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat-square&logo=Ubuntu&logoColor=white) |
-</div>
