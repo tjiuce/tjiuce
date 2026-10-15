@@ -1,5 +1,3 @@
-# Tech Stack
-
 <!-- nowrap -->
 | Tech I've Used |
 |-----------|
